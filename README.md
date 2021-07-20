@@ -1,1 +1,1 @@
-# cifar_10_various-cnn-_models-_with_GUI
+# cifar_10_various_cnn_models_with_GUI
